@@ -1,4 +1,3 @@
-
 # MobileMottu - Gerenciador de Motos e Pátios
 
 # integrantes 
@@ -18,7 +17,7 @@ RM - 554600 Caio Henrique
 
 O MobileMottu é um aplicativo móvel desenvolvido para auxiliar no gerenciamento de motocicletas, permitindo o cadastro de novas motos, sua listagem (geral ou filtrada por filial) e a visualização de informações sobre o pátio de cada filial, incluindo um mapa esquemático, imagens do local e a contagem de motos presentes.
 
-Este projeto foi construído utilizando React Native com Expo, focando em uma interface intuitiva e funcionalidades essenciais para o controle de frotas de motocicletas distribuídas em diferentes filiais.
+Este projeto foi construído focando em uma interface intuitiva e funcionalidades essenciais para o controle de frotas de motocicletas distribuídas em diferentes filiais.
 
 ## Funcionalidades
 
